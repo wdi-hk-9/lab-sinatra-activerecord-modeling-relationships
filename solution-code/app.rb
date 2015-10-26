@@ -1,4 +1,4 @@
-class PizzaApp < Sinatra::Base
+class RecipeApp < Sinatra::Base
   # General route actions
   get '/' do
     erb :home
