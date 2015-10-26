@@ -8,4 +8,4 @@ require "./models/recipe"
 
 require "./app"
 
-run PizzaApp
+run RecipeApp
